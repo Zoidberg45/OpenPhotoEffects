@@ -9,7 +9,7 @@ The purpose of this project is to provide a basic template for a Photo Effect Ed
 <kbd><img src="https://github.com/TechnoRiver/OpenPhotoEffects/blob/master/images/OpenPhotoEffects.png"></kbd>
 
 By taking advantage of Win2D's capability for processing images very rapidly using GPU and video memory,
-this app allows real time update of imaging effects. The user will be able visualize 
+this app allows real time update of imaging effects. The user will be able visualize
 immediate change to the original photo as he or she works on the slider to modify the parameters
 of each effect.
 
